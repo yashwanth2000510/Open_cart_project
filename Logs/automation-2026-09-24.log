@@ -1,0 +1,43 @@
+14:05:05.451 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+14:05:05.658 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+14:05:06.388 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+14:05:06.389 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+14:05:08.313 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+14:05:08.341 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+14:05:59.034 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\paralleltesting.xml"
+14:05:59.349 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\paralleltesting.xml
+
+14:06:02.021 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+14:06:02.103 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+14:06:02.525 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+14:06:02.525 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+14:06:04.317 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+14:06:04.350 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+14:06:10.751 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+14:06:10.828 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+14:06:11.209 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+14:06:11.209 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+14:06:12.819 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+14:06:12.846 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+14:06:18.781 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+14:06:18.900 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+14:06:19.468 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+14:06:19.468 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+14:06:21.210 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+14:06:21.266 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+14:11:56.067 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\paralleltesting.xml"
+14:11:56.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\paralleltesting.xml
+
+14:12:01.957 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+14:12:02.128 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+14:12:02.600 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+14:12:02.685 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+14:12:03.437 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+14:12:03.437 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+14:12:03.610 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+14:12:03.611 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+14:12:07.644 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+14:12:07.701 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+14:12:07.776 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************

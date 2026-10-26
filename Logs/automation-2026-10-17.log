@@ -1,0 +1,58 @@
+15:06:25.795 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has finished the Execution************
+15:06:58.401 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml"
+15:06:59.258 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml
+
+15:18:35.530 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml"
+15:19:48.239 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml"
+15:19:48.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml
+
+15:20:37.933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml"
+15:20:38.243 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml
+
+15:34:48.804 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml"
+15:34:49.107 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\Masterfile.xml
+
+15:35:04.027 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+15:35:04.167 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+15:35:04.810 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+15:35:04.810 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+15:35:08.417 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+15:35:08.465 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+15:35:11.681 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has started the Execution************
+15:35:15.072 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has finished the Execution************
+10:43:46.359 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+10:43:46.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml
+
+10:44:47.017 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+10:44:47.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml
+
+10:45:47.528 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+10:45:47.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml
+
+10:46:07.390 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+10:46:07.607 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+10:46:10.802 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+10:46:10.802 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+10:46:13.550 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+10:46:13.623 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+10:46:31.751 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has started the Execution************
+10:46:34.663 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has finished the Execution************
+11:00:11.561 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+11:00:11.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml
+
+11:14:28.853 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+11:14:29.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml
+
+11:24:48.450 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+11:24:48.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml
+

@@ -1,0 +1,29 @@
+11:25:12.680 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+11:25:12.891 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+11:25:15.983 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+11:25:15.983 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+11:25:19.785 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+11:25:19.831 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+11:25:41.681 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has started the Execution************
+11:25:44.075 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has finished the Execution************
+11:29:34.209 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+11:30:25.506 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml"
+11:30:25.877 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\eclipse-workspace\Open_cart_project\grid-docker.xml
+
+11:30:49.708 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+11:30:49.879 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+11:30:54.020 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+11:30:54.020 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+11:30:57.641 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+11:30:57.701 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+11:31:17.469 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has started the Execution************
+11:31:19.801 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has finished the Execution************
+11:31:47.162 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has started the Execution************
+11:31:47.340 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the My Account************
+11:31:51.305 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Clicked on the Register now button************
+11:31:51.305 [main] INFO  testCases.TC001_AccountRegistrationTest - **********providing the user details************
+11:31:53.976 [main] INFO  testCases.TC001_AccountRegistrationTest - **********perfroming the validation************
+11:31:54.026 [main] INFO  testCases.TC001_AccountRegistrationTest - **********TC001_AccountRegistrationTest has finished the Execution************
+11:32:15.925 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has started the Execution************
+11:32:18.226 [main] INFO  testCases.TC002_LoginTest - **********TC002_AccountRegistrationTest has finished the Execution************
